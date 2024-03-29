@@ -524,7 +524,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 5472fb52d1d375f4983c8c041a28ce42, type: 2}
+  - {fileID: 2100000, guid: b0f4a72f42f907d4ca787806af01b605, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1635,6 +1635,8 @@ LightProbeGroup:
   - {x: -1.9580387, y: 1.1740739, z: -0.34050262}
   - {x: -1.9580387, y: 1.1740739, z: 1.3216878}
   - {x: -1.9580387, y: 1.2174441, z: 0.38666737}
+  - {x: -1.7784743, y: 1.2009752, z: 0.7886562}
+  - {x: -1.7784743, y: 1.2009752, z: 1.1045622}
   m_Dering: 1
 --- !u!4 &960662363
 Transform:
@@ -1722,7 +1724,7 @@ Light:
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
   m_Shadows:
-    m_Type: 2
+    m_Type: 1
     m_Resolution: -1
     m_CustomResolution: -1
     m_Strength: 1
@@ -1917,7 +1919,7 @@ Transform:
   m_GameObject: {fileID: 1052044963}
   serializedVersion: 2
   m_LocalRotation: {x: -0.26030114, y: 0.7639478, z: 0.58520544, w: -0.07849716}
-  m_LocalPosition: {x: 1.9, y: -0.03, z: -0.51}
+  m_LocalPosition: {x: -0.76, y: -0.03, z: -0.51}
   m_LocalScale: {x: 8.157858, y: 8.978402, z: 7.1428576}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2825,7 +2827,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 2
-  m_BackGroundColor: {r: 0.3253827, g: 0.3455955, b: 0.3773585, a: 0}
+  m_BackGroundColor: {r: 0.21002138, g: 0.227212, b: 0.254717, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
