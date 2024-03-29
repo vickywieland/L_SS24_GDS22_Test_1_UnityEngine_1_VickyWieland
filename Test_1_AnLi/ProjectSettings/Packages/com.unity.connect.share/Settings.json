@@ -12,9 +12,14 @@
                 "value": "{\"m_Value\":true}"
             },
             {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "createDefaultBuildsFolder",
+                "value": "{\"m_Value\":true}"
+            },
+            {
                 "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
                 "key": "buildOutputDirList",
-                "value": "{\"m_Value\":\"\"}"
+                "value": "{\"m_Value\":\"C:/Users/Flori/Desktop/Ausbildung/GitHub/Allgemein/UnityEngine_Test_1/L_SS24_GDS22_Test_1_UnityEngine_1_VickyWieland/Test_1_AnLi/Build;C:/Users/Flori/Desktop/Ausbildung/GitHub/Allgemein/UnityEngine_Test_1/L_SS24_GDS22_Test_1_UnityEngine_1_VickyWieland/Test_1_AnLi/WebGL Builds;;;;;;;;\"}"
             }
         ]
     }
